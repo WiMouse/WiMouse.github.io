@@ -1,2 +1,2 @@
 # WiMouse.github.io
-WiMouse Website
+WiMouse Website: wimouse.github.io
